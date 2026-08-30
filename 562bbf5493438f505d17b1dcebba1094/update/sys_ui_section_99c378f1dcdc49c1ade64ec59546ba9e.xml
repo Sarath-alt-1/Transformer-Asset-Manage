@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Findings" section_id="99c378f1dcdc49c1ade64ec59546ba9e" sys_domain="global" table="x_2065243_transf_0_maintenance_record" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE">
+      <element>findings</element>
+      <position>0</position>
+      <sys_id>aedb8a7e735e4aa484d53697086ab204</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Findings" display_value="Findings" name="x_2065243_transf_0_maintenance_record" sys_domain="global" view="Default view">99c378f1dcdc49c1ade64ec59546ba9e</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE">
+      <element>next_due_date</element>
+      <position>1</position>
+      <sys_id>fcac597218cf4951b55ef9fa2933c911</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Findings" display_value="Findings" name="x_2065243_transf_0_maintenance_record" sys_domain="global" view="Default view">99c378f1dcdc49c1ade64ec59546ba9e</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE">
+      <caption>Findings</caption>
+      <header>false</header>
+      <name>x_2065243_transf_0_maintenance_record</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>99c378f1dcdc49c1ade64ec59546ba9e</sys_id>
+      <sys_scope display_value="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>

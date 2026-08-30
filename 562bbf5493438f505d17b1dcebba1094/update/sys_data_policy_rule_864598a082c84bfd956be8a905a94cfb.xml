@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+  <sys_data_policy_rule action="INSERT_OR_UPDATE">
+    <sys_id>864598a082c84bfd956be8a905a94cfb</sys_id>
+    <sys_scope display_value="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_scope>
+    <sys_update_name>sys_data_policy_rule_864598a082c84bfd956be8a905a94cfb</sys_update_name>
+    <disabled>leave alone</disabled>
+    <field>maintenance_date</field>
+    <mandatory>true</mandatory>
+    <sys_data_policy>559e15f4008041069091f84e7d7c4e7a</sys_data_policy>
+    <table>x_2065243_transf_0_maintenance_record</table>
+  </sys_data_policy_rule>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_form_sections form_id="3265732639ed42da83437a10480cbc6d" sys_domain="global" table="x_2065243_transf_0_maintenance_record">
+    <sys_ui_form_section action="INSERT_OR_UPDATE">
+      <position>0</position>
+      <sys_id>4ef0fe921a3b4dc7b85c4632f0fdb839</sys_id>
+      <sys_ui_form display_value="x_2065243_transf_0_maintenance_record" name="x_2065243_transf_0_maintenance_record" sys_domain="global" view="Default view">3265732639ed42da83437a10480cbc6d</sys_ui_form>
+      <sys_ui_section caption="Maintenance Details" display_value="Maintenance Details" name="x_2065243_transf_0_maintenance_record" sys_domain="global" view="Default view">2a33776d6d23467e8600bc91dfb88051</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form_section action="INSERT_OR_UPDATE">
+      <position>1</position>
+      <sys_id>6bd38f3ec5dc423d891e527a9da9eafd</sys_id>
+      <sys_ui_form display_value="x_2065243_transf_0_maintenance_record" name="x_2065243_transf_0_maintenance_record" sys_domain="global" view="Default view">3265732639ed42da83437a10480cbc6d</sys_ui_form>
+      <sys_ui_section caption="Findings" display_value="Findings" name="x_2065243_transf_0_maintenance_record" sys_domain="global" view="Default view">99c378f1dcdc49c1ade64ec59546ba9e</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form action="INSERT_OR_UPDATE">
+      <name>x_2065243_transf_0_maintenance_record</name>
+      <roles/>
+      <sys_id>3265732639ed42da83437a10480cbc6d</sys_id>
+      <sys_scope display_value="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_scope>
+      <sys_user/>
+      <view display_value="Default view" name="NULL">Default view</view>
+      <view_name/>
+    </sys_ui_form>
+  </sys_ui_form_sections>
+</record_update>

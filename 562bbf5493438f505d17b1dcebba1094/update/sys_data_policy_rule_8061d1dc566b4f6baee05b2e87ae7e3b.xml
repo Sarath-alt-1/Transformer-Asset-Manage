@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+  <sys_data_policy_rule action="INSERT_OR_UPDATE">
+    <sys_id>8061d1dc566b4f6baee05b2e87ae7e3b</sys_id>
+    <sys_scope display_value="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_scope>
+    <sys_update_name>sys_data_policy_rule_8061d1dc566b4f6baee05b2e87ae7e3b</sys_update_name>
+    <disabled>leave alone</disabled>
+    <field>transformer</field>
+    <mandatory>true</mandatory>
+    <sys_data_policy>559e15f4008041069091f84e7d7c4e7a</sys_data_policy>
+    <table>x_2065243_transf_0_maintenance_record</table>
+  </sys_data_policy_rule>
+</record_update>

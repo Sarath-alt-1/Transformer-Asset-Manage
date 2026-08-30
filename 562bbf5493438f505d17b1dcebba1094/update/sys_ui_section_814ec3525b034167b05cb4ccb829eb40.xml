@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="General Information" section_id="814ec3525b034167b05cb4ccb829eb40" sys_domain="global" table="x_2065243_transf_0_transformer" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>0510ddb91e3d4f20a3cd9193ddad258c</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="General Information" display_value="General Information" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">814ec3525b034167b05cb4ccb829eb40</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE">
+      <element>name</element>
+      <position>1</position>
+      <sys_id>7ddd4bf6fa6e4a26a8a8839efac2b5fd</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="General Information" display_value="General Information" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">814ec3525b034167b05cb4ccb829eb40</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE">
+      <element>number</element>
+      <position>2</position>
+      <sys_id>499910e72e984f08b0d2332819ef8d53</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="General Information" display_value="General Information" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">814ec3525b034167b05cb4ccb829eb40</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE">
+      <element>transformer_type</element>
+      <position>3</position>
+      <sys_id>3385ccf8a2c5438985c67ac3e8570aa7</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="General Information" display_value="General Information" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">814ec3525b034167b05cb4ccb829eb40</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE">
+      <element>manufacture0</element>
+      <position>4</position>
+      <sys_id>238821e5c3d34826a20a4d530c332d7c</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="General Information" display_value="General Information" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">814ec3525b034167b05cb4ccb829eb40</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE">
+      <element>.split</element>
+      <position>5</position>
+      <sys_id>29156ea6026e48f28b5e1c5787f355e1</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="General Information" display_value="General Information" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">814ec3525b034167b05cb4ccb829eb40</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE">
+      <element>operational_statu0</element>
+      <position>6</position>
+      <sys_id>696c7fb3ed8546de8d779c674a3f9a55</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="General Information" display_value="General Information" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">814ec3525b034167b05cb4ccb829eb40</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE">
+      <element>serial_numbe0</element>
+      <position>7</position>
+      <sys_id>d6a826a6efb844c4aef163549bb190e5</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="General Information" display_value="General Information" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">814ec3525b034167b05cb4ccb829eb40</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE">
+      <element>short_description</element>
+      <position>8</position>
+      <sys_id>f69470f730a94d05808cbd43689bfb07</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="General Information" display_value="General Information" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">814ec3525b034167b05cb4ccb829eb40</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE">
+      <element>company</element>
+      <position>9</position>
+      <sys_id>e4b02678da1b489895f3543bff617866</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="General Information" display_value="General Information" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">814ec3525b034167b05cb4ccb829eb40</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE">
+      <element>.end_split</element>
+      <position>10</position>
+      <sys_id>1b3d8b364742430ab298711a5efd8940</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="General Information" display_value="General Information" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">814ec3525b034167b05cb4ccb829eb40</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE">
+      <caption>General Information</caption>
+      <header>false</header>
+      <name>x_2065243_transf_0_transformer</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>814ec3525b034167b05cb4ccb829eb40</sys_id>
+      <sys_scope display_value="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>

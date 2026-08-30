@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_client">
+  <sys_script_client action="INSERT_OR_UPDATE">
+    <sys_id>7b759bfcc0a344c9bb84836a80e4919c</sys_id>
+    <sys_scope display_value="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_scope>
+    <sys_update_name>sys_script_client_7b759bfcc0a344c9bb84836a80e4919c</sys_update_name>
+    <active>true</active>
+    <applies_extended>false</applies_extended>
+    <description/>
+    <field/>
+    <global>true</global>
+    <isolate_script>false</isolate_script>
+    <messages/>
+    <name>Validate Maintenance Date</name>
+    <script><![CDATA[function onSubmit() {
+    var maintenanceDate = g_form.getValue('maintenance_date');
+    if (maintenanceDate) {
+        var today = new GlideDateTime().getLocalDate().toString();
+        if (maintenanceDate > today) {
+            g_form.addErrorMessage('Maintenance date cannot be in the future.');
+            return false;
+        }
+    }
+    return true;
+}
+]]></script>
+    <sys_name>Validate Maintenance Date</sys_name>
+    <table>x_2065243_transf_0_maintenance_record</table>
+    <type>onSubmit</type>
+    <ui_type>10</ui_type>
+    <view/>
+  </sys_script_client>
+</record_update>

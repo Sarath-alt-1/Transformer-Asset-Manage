@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Maintenance Records" section_id="7960582cc59f49a2ae2f3353f9142268" sys_domain="global" table="x_2065243_transf_0_transformer" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE">
+      <element>12M.x_2065243_transf_0_transformer.x_2065243_transf_0_maintenance_record.transformer</element>
+      <position>0</position>
+      <sys_id>e01eca736f634c8cb707d29632c73f97</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Maintenance Records" display_value="Maintenance Records" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">7960582cc59f49a2ae2f3353f9142268</sys_ui_section>
+      <sys_user/>
+      <type>list</type>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE">
+      <caption>Maintenance Records</caption>
+      <header>false</header>
+      <name>x_2065243_transf_0_transformer</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>7960582cc59f49a2ae2f3353f9142268</sys_id>
+      <sys_scope display_value="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>
