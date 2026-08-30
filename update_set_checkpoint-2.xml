@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-08-30 02:33:57">
+<sys_update_set action="INSERT_OR_UPDATE">
+<application display_value="Transformer Asset Manager">562bbf5493438f505d17b1dcebba1094</application>
+<base_update_set display_value="Checkpoint 0">66fed58d9303c3905d17b1dcebba1063</base_update_set>
+<batch_install_plan display_value=""/>
+<completed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</completed_by>
+<completed_on>2026-08-30 02:14:46</completed_on>
+<description>Complete Transformer Asset Manager with all remaining production components: (1) Form layouts for Transformer (5 sections: General Info, Electrical Specs, Installation &amp; Location, Maintenance, embedded Maintenance Records list) and Maintenance Record (2 sections: Details, Findings), (2) List layouts for both tables with key columns, (3) UI Policies for decommissioned transformer read-only fields and under-maintenance warning message, (4) Data Policies enforcing mandatory name/type on transformers and mandatory transformer/type/date/technician on maintenance records, (5) Client Scripts for default operational status on new transformers and future-date validation on maintenance records.</description>
+<install_date/>
+<installed_from/>
+<is_default>false</is_default>
+<merged_to display_value=""/>
+<name>Checkpoint</name>
+<origin_sys_id/>
+<parent display_value="Checkpoint">e2fed58d9303c3905d17b1dcebba10ab</parent>
+<release_date/>
+<remote_sys_id display_value=""/>
+<state>complete</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-08-30 02:14:40</sys_created_on>
+<sys_id>6eb425899343c3905d17b1dcebba1041</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-08-30 02:14:46</sys_updated_on>
+</sys_update_set>
+</unload>
