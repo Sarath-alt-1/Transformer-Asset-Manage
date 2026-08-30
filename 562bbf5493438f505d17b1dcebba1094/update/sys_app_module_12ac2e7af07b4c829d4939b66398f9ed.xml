@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_module">
+  <sys_app_module action="INSERT_OR_UPDATE">
+    <sys_id>12ac2e7af07b4c829d4939b66398f9ed</sys_id>
+    <sys_scope display_value="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_scope>
+    <sys_update_name>sys_app_module_12ac2e7af07b4c829d4939b66398f9ed</sys_update_name>
+    <active>true</active>
+    <application>b0815614584146b18384fc1ea91c6774</application>
+    <filter>next_maintenance_due&lt;javascript:gs.beginningOfToday()</filter>
+    <hint>View transformers with overdue maintenance</hint>
+    <link_type>FILTER</link_type>
+    <name>x_2065243_transf_0_transformer</name>
+    <order>150</order>
+    <title>Overdue Maintenance</title>
+  </sys_app_module>
+</record_update>

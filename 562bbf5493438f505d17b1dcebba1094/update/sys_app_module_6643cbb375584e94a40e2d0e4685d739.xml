@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_module">
+  <sys_app_module action="INSERT_OR_UPDATE">
+    <sys_id>6643cbb375584e94a40e2d0e4685d739</sys_id>
+    <sys_scope display_value="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_scope>
+    <sys_update_name>sys_app_module_6643cbb375584e94a40e2d0e4685d739</sys_update_name>
+    <active>true</active>
+    <application>b0815614584146b18384fc1ea91c6774</application>
+    <hint>Create a new transformer record</hint>
+    <link_type>NEW</link_type>
+    <name>x_2065243_transf_0_transformer</name>
+    <order>200</order>
+    <title>New Transformer</title>
+  </sys_app_module>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+  <sysevent_register action="INSERT_OR_UPDATE">
+    <sys_id>95c2540d96554ae0b3eafb87df3c02a1</sys_id>
+    <sys_scope display_value="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_scope>
+    <sys_update_name>sysevent_register_95c2540d96554ae0b3eafb87df3c02a1</sys_update_name>
+    <description>Fired daily for each transformer with overdue maintenance</description>
+    <event_name>x_2065243_transf_0.maintenance.overdue</event_name>
+    <fired_by>Scheduled Script: Daily Overdue Maintenance Check</fired_by>
+    <priority>100</priority>
+    <suffix>maintenance.overdue</suffix>
+    <table>x_2065243_transf_0_transformer</table>
+  </sysevent_register>
+</record_update>

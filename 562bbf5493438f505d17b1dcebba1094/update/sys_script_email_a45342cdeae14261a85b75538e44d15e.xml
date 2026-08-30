@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_email">
+  <sys_script_email action="INSERT_OR_UPDATE">
+    <sys_id>a45342cdeae14261a85b75538e44d15e</sys_id>
+    <sys_scope display_value="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_scope>
+    <sys_update_name>sys_script_email_a45342cdeae14261a85b75538e44d15e</sys_update_name>
+    <name>Transformer Record Link</name>
+    <new_lines_to_html>false</new_lines_to_html>
+    <script>(function runMailScript(/* GlideRecord */ current, /* TemplatePrinter */ template,
+      /* Optional EmailOutbound */ email, /* Optional GlideRecord */ email_action,
+      /* Optional GlideRecord */ event) {
+      var instanceUrl = gs.getProperty('glide.servlet.uri');
+      var recordUrl = instanceUrl + '/' + current.getTableName() + '.do?sys_id=' + current.sys_id;
+      template.print(recordUrl);
+})(current, template, email, email_action, event);</script>
+  </sys_script_email>
+</record_update>
