@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description>Application for tracking transformer assets and scheduling maintenance</description>
+        <device_type>browser</device_type>
+        <hint>Manage transformer assets and maintenance records</hint>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-30 01:49:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b0815614584146b18384fc1ea91c6774</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Transformer Asset Manager</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Transformer Asset Manager" source="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transformer Asset Manager">562bbf5493438f505d17b1dcebba1094</sys_scope>
+        <sys_update_name>sys_app_application_b0815614584146b18384fc1ea91c6774</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-30 01:49:34</sys_updated_on>
+        <title>Transformer Asset Manager</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

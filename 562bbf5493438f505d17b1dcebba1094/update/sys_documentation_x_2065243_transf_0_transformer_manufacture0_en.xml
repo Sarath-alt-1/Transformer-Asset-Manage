@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="manufacture0" label="Manufacturer" language="en" table="x_2065243_transf_0_transformer">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>manufacture0</element>
+            <help/>
+            <hint/>
+            <label>Manufacturer</label>
+            <language>en</language>
+            <name>x_2065243_transf_0_transformer</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-28 06:21:46</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Manufacturer</sys_name>
+            <sys_package display_value="Transformer Asset Manager" source="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Transformer Asset Manager">562bbf5493438f505d17b1dcebba1094</sys_scope>
+            <sys_update_name>sys_documentation_x_2065243_transf_0_transformer_manufacture0_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-28 06:23:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

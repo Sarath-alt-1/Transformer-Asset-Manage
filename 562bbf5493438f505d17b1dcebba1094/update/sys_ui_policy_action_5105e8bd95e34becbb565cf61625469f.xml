@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>last_maintenance_date</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-30 02:14:43</sys_created_on>
+        <sys_id>5105e8bd95e34becbb565cf61625469f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>last_maintenance_date</sys_name>
+        <sys_package display_value="Transformer Asset Manager" source="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transformer Asset Manager">562bbf5493438f505d17b1dcebba1094</sys_scope>
+        <sys_update_name>sys_ui_policy_action_5105e8bd95e34becbb565cf61625469f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-30 02:14:43</sys_updated_on>
+        <table>x_2065243_transf_0_transformer</table>
+        <ui_policy display_value="Make maintenance fields read-only when decommissioned">4205c37d71224d0682941a2e3868f3e4</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=5105e8bd95e34becbb565cf61625469f"/>
+</record_update>

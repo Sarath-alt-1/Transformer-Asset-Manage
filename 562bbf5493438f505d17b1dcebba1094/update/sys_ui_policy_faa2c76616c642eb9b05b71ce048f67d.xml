@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_2065243_transf_0_transformer">operational_statu0=under_maintenance<item display_value="Under Maintenance" endquery="false" field="operational_statu0" goto="false" newquery="false" operator="=" or="false" value="under_maintenance"/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>false</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+    g_form.hideFieldMsg('operational_statu0');
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+    g_form.showFieldMsg('operational_statu0', 'This transformer is currently under maintenance. Update status when maintenance is complete.', 'warning');
+}]]></script_true>
+        <set_values/>
+        <short_description>Show warning when under maintenance</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-30 02:14:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>faa2c76616c642eb9b05b71ce048f67d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show warning when under maintenance</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Transformer Asset Manager" source="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transformer Asset Manager">562bbf5493438f505d17b1dcebba1094</sys_scope>
+        <sys_update_name>sys_ui_policy_faa2c76616c642eb9b05b71ce048f67d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-30 02:14:43</sys_updated_on>
+        <table>x_2065243_transf_0_transformer</table>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

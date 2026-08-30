@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Maintenance Details" section_id="2a33776d6d23467e8600bc91dfb88051" sys_domain="global" table="x_2065243_transf_0_maintenance_record" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-30 02:14:43</sys_created_on>
+            <sys_id>141052ea59d14c19b9bb57b0dfc57341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Maintenance Details" display_value="Maintenance Details" name="x_2065243_transf_0_maintenance_record" sys_domain="global" view="Default view">2a33776d6d23467e8600bc91dfb88051</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-30 02:14:43</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>transformer</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-30 02:14:43</sys_created_on>
+            <sys_id>c0409642e7d34b64ae7a4f86030acdba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Maintenance Details" display_value="Maintenance Details" name="x_2065243_transf_0_maintenance_record" sys_domain="global" view="Default view">2a33776d6d23467e8600bc91dfb88051</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-30 02:14:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>maintenance_type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-30 02:14:43</sys_created_on>
+            <sys_id>c0be6e823d424d25800a9316668d6d92</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Maintenance Details" display_value="Maintenance Details" name="x_2065243_transf_0_maintenance_record" sys_domain="global" view="Default view">2a33776d6d23467e8600bc91dfb88051</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-30 02:14:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-30 02:14:43</sys_created_on>
+            <sys_id>1b515e0e31cd4c82916df517dd721023</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Maintenance Details" display_value="Maintenance Details" name="x_2065243_transf_0_maintenance_record" sys_domain="global" view="Default view">2a33776d6d23467e8600bc91dfb88051</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-30 02:14:43</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>technician</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-30 02:14:43</sys_created_on>
+            <sys_id>04a0b829c4044c4d98055305097acded</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Maintenance Details" display_value="Maintenance Details" name="x_2065243_transf_0_maintenance_record" sys_domain="global" view="Default view">2a33776d6d23467e8600bc91dfb88051</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-30 02:14:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>maintenance_date</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-30 02:14:43</sys_created_on>
+            <sys_id>e0f6df67e41d465db806fbc3b464b6b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Maintenance Details" display_value="Maintenance Details" name="x_2065243_transf_0_maintenance_record" sys_domain="global" view="Default view">2a33776d6d23467e8600bc91dfb88051</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-30 02:14:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-30 02:14:43</sys_created_on>
+            <sys_id>b20d8a33a89c40899269c3ca1ec20929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Maintenance Details" display_value="Maintenance Details" name="x_2065243_transf_0_maintenance_record" sys_domain="global" view="Default view">2a33776d6d23467e8600bc91dfb88051</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-30 02:14:43</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Maintenance Details</caption>
+            <header>false</header>
+            <name>x_2065243_transf_0_maintenance_record</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-30 02:14:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a33776d6d23467e8600bc91dfb88051</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2065243_transf_0_maintenance_record</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Transformer Asset Manager" source="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Transformer Asset Manager">562bbf5493438f505d17b1dcebba1094</sys_scope>
+            <sys_update_name>sys_ui_section_2a33776d6d23467e8600bc91dfb88051</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-30 02:14:43</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

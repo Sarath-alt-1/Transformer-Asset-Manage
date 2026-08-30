@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_run_end/>
+        <entered_run_start/>
+        <entered_time>1970-01-01 06:00:00</entered_time>
+        <max_drift/>
+        <name>Daily Overdue Maintenance Check</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <repeat_every/>
+        <run_as/>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_daysofweek/>
+        <run_end/>
+        <run_month/>
+        <run_period/>
+        <run_start>2026-08-30 01:49:30</run_start>
+        <run_time>1970-01-01 06:00:00</run_time>
+        <run_type>daily</run_type>
+        <run_weekinmonth/>
+        <script><![CDATA[(function () {
+    /**
+     * Daily Overdue Maintenance Check
+     * Scans all active transformers and fires an event for each
+     * transformer whose next_maintenance_due date is today or in the past.
+     * The event is consumed by an email notification to alert the assigned user.
+     */
+    var today = new GlideDate();
+    var todayStr = today.getValue();
+
+    var gr = new GlideRecord('x_2065243_transf_0_transformer');
+    gr.addNotNullQuery('next_maintenance_due');
+    gr.addQuery('next_maintenance_due', '<=', todayStr);
+    gr.addQuery('operational_statu0', '!=', 'decommissioned');
+    gr.query();
+
+    var count = 0;
+    while (gr.next()) {
+        gs.eventQueue(
+            'x_2065243_transf_0.maintenance.overdue',
+            gr,
+            gr.getValue('name') + ' (' + gr.getValue('number') + ')',
+            gr.getValue('next_maintenance_due')
+        );
+        count++;
+    }
+
+    gs.info('Overdue Maintenance Check: Found ' + count + ' transformer(s) with overdue maintenance.');
+})();
+]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-30 01:49:35</sys_created_on>
+        <sys_id>6fa9ee9cc0644614a9d73c7606a3667d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Daily Overdue Maintenance Check</sys_name>
+        <sys_package display_value="Transformer Asset Manager" source="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transformer Asset Manager">562bbf5493438f505d17b1dcebba1094</sys_scope>
+        <sys_update_name>sysauto_script_6fa9ee9cc0644614a9d73c7606a3667d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-30 01:49:35</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="39fc8c6c93c38f505d17b1dcebba10a2" label="Maintenance Record" max_length="40" name="x_2065243_transf_0_maintenance_record" type="collection">
+        <element label="Maintenance Type" max_length="255" name="maintenance_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Repair" sequence="2" value="repair"/>
+                <element inactive_on_update="false" label="Routine Inspection" sequence="0" value="routine_inspection"/>
+                <element inactive_on_update="false" label="Emergency" sequence="3" value="emergency"/>
+                <element inactive_on_update="false" label="Oil Test" sequence="1" value="oil_test"/>
+            </choice>
+        </element>
+        <element label="Technician" max_length="32" name="technician" reference="sys_user" type="reference"/>
+        <element label="Next Due Date" max_length="255" name="next_due_date" type="glide_date"/>
+        <element label="Maintenance Date" max_length="255" name="maintenance_date" type="glide_date"/>
+        <element label="Findings" max_length="90" name="findings" type="string"/>
+        <element display="true" label="Transformer" max_length="32" name="transformer" reference="x_2065243_transf_0_transformer" type="reference"/>
+        <index name="index">
+            <element name="technician"/>
+        </index>
+        <index name="index2">
+            <element name="transformer"/>
+        </index>
+    </element>
+</database>

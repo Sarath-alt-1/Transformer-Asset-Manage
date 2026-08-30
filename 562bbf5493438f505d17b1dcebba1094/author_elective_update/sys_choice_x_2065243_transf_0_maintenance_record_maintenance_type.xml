@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="maintenance_type" table="x_2065243_transf_0_maintenance_record" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>maintenance_type</element>
+            <name>x_2065243_transf_0_maintenance_record</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-28 06:40:23</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>maintenance_type</sys_name>
+            <sys_package display_value="Transformer Asset Manager" source="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Transformer Asset Manager">562bbf5493438f505d17b1dcebba1094</sys_scope>
+            <sys_update_name>sys_choice_x_2065243_transf_0_maintenance_record_maintenance_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-28 06:40:23</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>maintenance_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Routine Inspection</label>
+            <language>en</language>
+            <name>x_2065243_transf_0_maintenance_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-28 06:40:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-28 06:40:23</sys_updated_on>
+            <value>routine_inspection</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>maintenance_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oil Test</label>
+            <language>en</language>
+            <name>x_2065243_transf_0_maintenance_record</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-28 06:40:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-28 06:40:23</sys_updated_on>
+            <value>oil_test</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>maintenance_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Repair</label>
+            <language>en</language>
+            <name>x_2065243_transf_0_maintenance_record</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-28 06:40:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-28 06:40:23</sys_updated_on>
+            <value>repair</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>maintenance_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Emergency</label>
+            <language>en</language>
+            <name>x_2065243_transf_0_maintenance_record</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-28 06:40:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-28 06:40:23</sys_updated_on>
+            <value>emergency</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

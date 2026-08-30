@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="926dbf9893438f505d17b1dcebba10e3" extends="cmdb_ci" label="Transformer" max_length="40" name="x_2065243_transf_0_transformer" type="collection">
+        <element label="Primary Voltage" max_length="20" name="primary_voltage" type="string"/>
+        <element label="Install Date" max_length="255" name="install_dat0" type="glide_date"/>
+        <element choice="1" label="Cooling Type" max_length="255" name="cooling_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="OFAF" sequence="2" value="ofaf"/>
+                <element inactive_on_update="false" label="ONAN" sequence="0" value="onan"/>
+                <element inactive_on_update="false" label="ONAF" sequence="1" value="onaf"/>
+            </choice>
+        </element>
+        <element choice="3" label="Manufacturer" max_length="255" name="manufacture0" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="TAKAOKA TOKO" sequence="0" value="takaoka_toko"/>
+            </choice>
+        </element>
+        <element label="Secondary Voltage" max_length="20" name="secondary_voltage" type="string"/>
+        <element label="Transformer Type" max_length="255" name="transformer_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="VCT" sequence="2" value="vct"/>
+                <element inactive_on_update="false" label="CT" sequence="0" value="ct"/>
+                <element inactive_on_update="false" label="VT" sequence="1" value="vt"/>
+            </choice>
+        </element>
+        <element label="Next Maintenance Due" max_length="255" name="next_maintenance_due" type="glide_date"/>
+        <element choice="1" label="Operational Status" max_length="255" name="operational_statu0" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In Service" sequence="0" value="in_service"/>
+                <element inactive_on_update="false" label="Decommissioned" sequence="2" value="decommissioned"/>
+                <element inactive_on_update="false" label="Under Maintenance" sequence="1" value="under_maintenance"/>
+            </choice>
+        </element>
+        <element label="Rated Capacity (kVA)" max_length="255" name="rated_capacity_kva" type="integer"/>
+        <element display="true" label="Serial Number" max_length="40" name="serial_numbe0" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Last Maintenance Date" max_length="255" name="last_maintenance_date" type="glide_date"/>
+        <element label="Maintenance Interval (Months)" max_length="255" name="maintenance_interval_months" type="integer"/>
+    </element>
+</database>

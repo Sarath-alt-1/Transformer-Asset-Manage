@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="6c63e1602b234de48ceb18d08dcc2b62" sys_domain="global" table="x_2065243_transf_0_transformer" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-30 02:14:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>388a9300ae16440ca05cacf6af173d63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2065243_transf_0_transformer" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">6c63e1602b234de48ceb18d08dcc2b62</sys_ui_form>
+            <sys_ui_section caption="General Information" display_value="General Information" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">814ec3525b034167b05cb4ccb829eb40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-30 02:14:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-30 02:14:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>270cf21187604c948456e9ba2af770de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2065243_transf_0_transformer" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">6c63e1602b234de48ceb18d08dcc2b62</sys_ui_form>
+            <sys_ui_section caption="Electrical Specifications" display_value="Electrical Specifications" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">3a6d45f2918a497ab320592a4e3bef2e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-30 02:14:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-30 02:14:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffe35be111a340d1a80b8c0845f48246</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2065243_transf_0_transformer" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">6c63e1602b234de48ceb18d08dcc2b62</sys_ui_form>
+            <sys_ui_section caption="Installation &amp; Location" display_value="Installation &amp; Location" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">3ef7e6cfd0f444a89e6f68455ea43187</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-30 02:14:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-30 02:14:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>434c4f329d574db2a778d387e5c953af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2065243_transf_0_transformer" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">6c63e1602b234de48ceb18d08dcc2b62</sys_ui_form>
+            <sys_ui_section caption="Maintenance" display_value="Maintenance" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">1f869cccaf0f4cb4b7b4b181f525701c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-30 02:14:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-30 02:14:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed5dfc263a524a2a8d77fde89bcef245</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2065243_transf_0_transformer" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">6c63e1602b234de48ceb18d08dcc2b62</sys_ui_form>
+            <sys_ui_section caption="Maintenance Records" display_value="Maintenance Records" name="x_2065243_transf_0_transformer" sys_domain="global" view="Default view">7960582cc59f49a2ae2f3353f9142268</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-30 02:14:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_2065243_transf_0_transformer</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-30 02:14:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c63e1602b234de48ceb18d08dcc2b62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2065243_transf_0_transformer</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Transformer Asset Manager" source="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Transformer Asset Manager">562bbf5493438f505d17b1dcebba1094</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6c63e1602b234de48ceb18d08dcc2b62</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-30 02:14:42</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

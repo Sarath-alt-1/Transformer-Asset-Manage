@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <derived_priority/>
+        <description>Fired daily for each transformer with overdue maintenance</description>
+        <event_name>x_2065243_transf_0.maintenance.overdue</event_name>
+        <fired_by>Scheduled Script: Daily Overdue Maintenance Check</fired_by>
+        <priority>100</priority>
+        <queue/>
+        <suffix>maintenance.overdue</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-30 01:49:35</sys_created_on>
+        <sys_id>95c2540d96554ae0b3eafb87df3c02a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2065243_transf_0.maintenance.overdue</sys_name>
+        <sys_package display_value="Transformer Asset Manager" source="x_2065243_transf_0">562bbf5493438f505d17b1dcebba1094</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transformer Asset Manager">562bbf5493438f505d17b1dcebba1094</sys_scope>
+        <sys_update_name>sysevent_register_95c2540d96554ae0b3eafb87df3c02a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-30 01:49:35</sys_updated_on>
+        <table>x_2065243_transf_0_transformer</table>
+    </sysevent_register>
+</record_update>
